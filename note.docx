@@ -1,0 +1,13 @@
+venv\Scripts\activate
+
+python malaria_app3.py
+
+
+malariaModel_vgg19V11.h5
+accuracy: .9904, .9254
+
+
+Leukemia:
+Train        0.22318    0.90500   
+Validation   0.31578    0.86617   
+Test         0.30716    0.87187 
